@@ -1,6 +1,6 @@
 {
   "name": "Streamlit Template from dev container",
-  "image": "ghcr.io/streamlit/Basic-Template:latest",
+  "image": "ghcr.io/streamlit/basic-template:latest",
   "customizations": {
     "codespaces": {
       "openFiles": [
